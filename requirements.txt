@@ -1,0 +1,48 @@
+## Requirements
+
+To run and explore this project, the following requirements are needed:
+
+### Software
+
+* Power BI Desktop
+* Microsoft Excel (optional, for viewing the dataset)
+* GitHub Account (for project hosting)
+
+### Dataset
+
+* Electric Vehicle (EV) Dataset (CSV format)
+* Dataset sourced from Kaggle
+
+### Power BI Features Used
+
+* Data Import and Transformation
+* Calculated Columns (DAX)
+* KPI Cards
+* Pie Charts
+* Bar Charts
+* Column Charts
+* Scatter Plots
+* Customer Segmentation
+* Interactive Dashboard Design
+
+### Segmentation Criteria
+
+* Price Segment
+
+  * Budget
+  * Mid-Range
+  * Premium
+
+* Range Segment
+
+  * Short Range
+  * Medium Range
+  * Long Range
+
+### Skills Required
+
+* Basic Data Analysis
+* Data Visualization
+* Power BI Fundamentals
+* Business Analytics
+* Customer Segmentation Techniques
